@@ -36,7 +36,7 @@ dependencies {
     testImplementation 'it.ozimov:embedded-redis:0.7.3'
     testImplementation 'io.cucumber:cucumber-junit:6.10.1'
     testImplementation 'io.cucumber:cucumber-java:6.10.1'
-    testImplementation 'io.cucumber:cucumber-spring:6.10.1'
+    testImplementation 'io.cucumber:cucumber-spring:6.10.2'
     testImplementation 'io.cucumber:cucumber-junit-platform-engine:6.10.1'
     testImplementation "com.github.tomakehurst:wiremock-jre8:2.27.2"
 }
